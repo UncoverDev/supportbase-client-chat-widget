@@ -1,0 +1,62 @@
+[
+    {
+        "isUser": true,
+        "name": "John Doe",
+        "message": "Hello man",
+        "timestamp": "12:00 AM"
+    },
+    {
+        "isUser": true,
+        "name": "John Doe",
+        "message": "How are you feeling today?",
+        "timestamp": "12:05 AM"
+    },
+    {
+        "isUser": false,
+        "name": "John Doe",
+        "message": "Not so cool. Been off for a while now🤮",
+        "timestamp": "12:08 AM"
+    },
+    {
+        "isUser": true,
+        "name": "John Doe",
+        "message": "What!!! What happened?",
+        "timestamp": "12:10 AM"
+    },
+    {
+        "isUser": true,
+        "name": "John Doe",
+        "message": "I went to your place last night and you were not around. I was told you went to the hospital",
+        "timestamp": "12:14 AM"
+    },
+    {
+        "isUser": false,
+        "name": "John Doe",
+        "message": "Oh! I was not feeling too well. I had to go to the hospital",
+        "timestamp": "12:17 AM"
+    },
+    {
+        "isUser": true,
+        "name": "John Doe",
+        "message": "So, what happened?",
+        "timestamp": "12:20 AM"
+    },
+    {
+        "isUser": false,
+        "name": "John Doe",
+        "message": "I was diagnosed with malaria and typhoid. I was given some drugs to take and I was told to come back for checkup in 2 days time",
+        "timestamp": "12:20 AM"
+    },
+    {
+        "isUser": true,
+        "name": "John Doe",
+        "message": "Oh! Sorry about that. I hope you are feeling better now?",
+        "timestamp": "12:21 AM"
+    },
+    {
+        "isUser": false,
+        "name": "John Doe",
+        "message": "Yes, I am. I am feeling much better now. I am just taking the drugs I was given and I am also eating well. I am also taking a lot of water too.",
+        "timestamp": "12:23 AM"
+    }
+]
